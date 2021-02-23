@@ -14,3 +14,10 @@ https://drive.google.com/file/d/1UxEGiK-m3Vy9OHEptANm-vfNLhdtU__g/view?usp=shari
 
 Likewise, the data can be uploaded via the 2nd code block. census.csv will be
 the file to upload.
+
+Note: The above URLs will lead you to a jibberish document. Press 
+"Open with Google Colabs" at the top to open the notebook properly.
+
+If you have any problems whatsoever, please contact me at jkint6@gatech.edu
+or jkint@icosahedron.org or text me at 425-377-1503 and I will help you
+run these notebooks, either on Google or locally.
